@@ -1,0 +1,10 @@
+D:\Proiecte\ChessApp\ChessApp\ChessApp\bin\Debug\ChessApp.exe.config
+D:\Proiecte\ChessApp\ChessApp\ChessApp\bin\Debug\ChessApp.exe
+D:\Proiecte\ChessApp\ChessApp\ChessApp\bin\Debug\ChessApp.pdb
+D:\Proiecte\ChessApp\ChessApp\ChessApp\obj\Debug\ChessApp.csprojAssemblyReference.cache
+D:\Proiecte\ChessApp\ChessApp\ChessApp\obj\Debug\ChessApp.Form1.resources
+D:\Proiecte\ChessApp\ChessApp\ChessApp\obj\Debug\ChessApp.Properties.Resources.resources
+D:\Proiecte\ChessApp\ChessApp\ChessApp\obj\Debug\ChessApp.csproj.GenerateResource.cache
+D:\Proiecte\ChessApp\ChessApp\ChessApp\obj\Debug\ChessApp.csproj.CoreCompileInputs.cache
+D:\Proiecte\ChessApp\ChessApp\ChessApp\obj\Debug\ChessApp.exe
+D:\Proiecte\ChessApp\ChessApp\ChessApp\obj\Debug\ChessApp.pdb

@@ -1,0 +1,10 @@
+D:\Proiecte\LeduriArduino\LeduriArduino\obj\Debug\LeduriArduino.csprojAssemblyReference.cache
+D:\Proiecte\LeduriArduino\LeduriArduino\obj\Debug\LeduriArduino.Form1.resources
+D:\Proiecte\LeduriArduino\LeduriArduino\obj\Debug\LeduriArduino.Properties.Resources.resources
+D:\Proiecte\LeduriArduino\LeduriArduino\obj\Debug\LeduriArduino.csproj.GenerateResource.cache
+D:\Proiecte\LeduriArduino\LeduriArduino\obj\Debug\LeduriArduino.csproj.CoreCompileInputs.cache
+D:\Proiecte\LeduriArduino\LeduriArduino\bin\Debug\LeduriArduino.exe.config
+D:\Proiecte\LeduriArduino\LeduriArduino\bin\Debug\LeduriArduino.exe
+D:\Proiecte\LeduriArduino\LeduriArduino\bin\Debug\LeduriArduino.pdb
+D:\Proiecte\LeduriArduino\LeduriArduino\obj\Debug\LeduriArduino.exe
+D:\Proiecte\LeduriArduino\LeduriArduino\obj\Debug\LeduriArduino.pdb

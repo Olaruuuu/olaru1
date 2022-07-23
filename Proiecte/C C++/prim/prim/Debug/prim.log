@@ -1,0 +1,3 @@
+﻿  prim.cpp
+D:\Proiecte\C C++\prim\prim\prim.cpp(56): warning C4715: 'is_prime': not all control paths return a value
+  prim.vcxproj -> D:\Proiecte\C C++\prim\Debug\prim.exe
